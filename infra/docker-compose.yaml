@@ -1,0 +1,3 @@
+include:
+  - ../auth_service_practix/infra/docker-compose.yml
+  - ../content_service_practix/infra/docker-compose.yml
