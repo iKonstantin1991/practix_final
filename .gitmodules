@@ -1,0 +1,12 @@
+[submodule "auth_service_practix"]
+	path = auth_service_practix
+	url = https://github.com/iKonstantin1991/auth_service_practix
+[submodule "admin_panel_practix"]
+	path = admin_panel_practix
+	url = https://github.com/kcherednichenko/admin_panel_practix
+[submodule "etl_practix"]
+	path = etl_practix
+	url = https://github.com/iKonstantin1991/etl_practix
+[submodule "content_service_practix"]
+	path = content_service_practix
+	url = https://github.com/kcherednichenko/content_service_practix
