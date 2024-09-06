@@ -2,3 +2,7 @@ services:
   auth_nginx:
     ports: !override
       - "81:80"
+  
+  notify_nginx:
+    ports: !override
+      - "82:80"

@@ -10,3 +10,6 @@
 [submodule "content_service_practix"]
 	path = content_service_practix
 	url = https://github.com/kcherednichenko/content_service_practix
+[submodule "notifications_service_practix"]
+	path = notifications_service_practix
+	url = https://github.com/iKonstantin1991/notifications_service_practix
