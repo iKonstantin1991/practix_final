@@ -6,3 +6,7 @@ services:
   notify_nginx:
     ports: !override
       - "82:80"
+
+  group-watch-nginx:
+    ports: !override
+      - "83:80"

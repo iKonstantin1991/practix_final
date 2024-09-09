@@ -2,3 +2,4 @@ include:
   - ../auth_service_practix/infra/docker-compose.yml
   - ../content_service_practix/infra/docker-compose.yml
   - ../notifications_service_practix/docker-compose.yml
+  - ../group_filmwork_watching_service/infra/docker-compose.yml

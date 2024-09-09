@@ -13,3 +13,6 @@
 [submodule "notifications_service_practix"]
 	path = notifications_service_practix
 	url = https://github.com/iKonstantin1991/notifications_service_practix
+[submodule "group_filmwork_watching_service"]
+	path = group_filmwork_watching_service
+	url = https://github.com/iKonstantin1991/group_filmwork_watching_service
